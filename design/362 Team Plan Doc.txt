@@ -1,0 +1,7 @@
+﻿Team plan:
+* The team will meet virtually on Wednesday at 12:00 with Our TA. 
+* The team will also meet in person in the basement of the Student Innovation Center on Tuesdays and Thursdays from 3:00pm to 4:00pm.
+* We have a discord chat set up to communicate with each other and ask questions, as well as one with the TA
+* If we aren’t going to be able to make a meeting we need to let each other know beforehand, as well as the TA
+* We will check to make sure our git is up to date every Friday and Sunday
+* We will come prepared with questions to the TA meetings

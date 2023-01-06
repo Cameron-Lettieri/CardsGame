@@ -1,0 +1,8 @@
+Communication was very good for my team in this project. We were up to date with the requirements, with the exception of the brain fart on iteration 4, 
+and did a good job dividing work.
+I feel like I had a good understanding of the scope of the project for most of it, and my groupmates for sure helped me along whenever there was any confusion.
+
+While up until iteration 4 went well, iteration 5 was a struggle for me. I had some issues implementing features 5 and 6. More specifically the verification requirement.
+I ran into an issue where I could not get a the card at the top of a pile and I was struggling. It did a number on my confidence and it was difficult to solve the problem.
+Coming fresh off break did not help either. While I was mentally refreshed and prepared to take on the problem, I had lost a complete understanding of the interactivity 
+of the project and it's classes.
